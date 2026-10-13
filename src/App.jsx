@@ -1,6 +1,6 @@
 import { AdoptionProvider, useAdoption } from "./context/AdoptionContext";
 import Header from "./components/Header";
-import Footer from "./components/Footer";
+import Footer from "./components/footer";
 import Home from "./pages/Home";
 import Favorites from "./pages/Favorites";
 import PetDetail from "./pages/PetDetail";
